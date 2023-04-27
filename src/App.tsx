@@ -27,6 +27,8 @@ function TaskTracker() {
     setTaskCount(taskCount - 1);
   };
 
+  
+
   return (
     <div className="task-tracker">
 
